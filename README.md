@@ -1,6 +1,6 @@
 # React Portfolio
 
-https://space-between.github.io/t-flix/
+https://space-between.github.io/react-portfolio/
 
 
 
