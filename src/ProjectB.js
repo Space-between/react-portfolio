@@ -21,7 +21,7 @@ export default function ProjectA() {
                 <br />
                 <br />
                 <div className="font-bold text-gray-800">Feature</div>
-                - React에서 class를 사용하지 않고 function을 사용해서 state를 운용하는 React-Hooks를 도입한 첫 번째 React 프로젝트입니다.
+                - React에서 class를 사용하지 않고 function을 사용해서 state가 변경되는 React-Hooks를 도입한 첫 번째 React 프로젝트입니다.
               </p>
               <a
                 className="flex-shrink-0 bg-teal-500 hover:bg-teal-400 border-teal-500 hover:border-teal-400 text-sm border-4 text-white py-1 px-2 rounded"
