@@ -14,6 +14,9 @@
 
 
  /*About me*/
+ .aboutme-font-length{
+   width:48%;
+ }
  @media (max-width: 800px){
     .mx-20 {
       margin-left: 0;
@@ -22,6 +25,11 @@
     }
     .text-xl {
         font-size: 16px;
+    }
+  }
+  @media (max-width: 1100px){
+    .aboutme-font-length{
+      width:100%;
     }
   }
  /*About me and*/
