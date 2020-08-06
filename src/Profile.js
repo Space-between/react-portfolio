@@ -60,7 +60,7 @@ function Profile() {
       </div>
       <div className="flex flex-col items-center mt-5 text-gray-800">
         <div className="text-4xl font-extrabold">
-          Hi, I'm <span className="text-teal-500">Taeyong Kim</span>
+         Wassup!, I'm <span className="text-teal-500">Taeyong Kim</span>
         </div>
         <div className="text-base font-bold mb-5">
           <span className="text-teal-500">개발자</span> Developer

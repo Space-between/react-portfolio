@@ -5,6 +5,12 @@
   .bootloading{
     font-size:28px;
   }
+  .bg-gray-300 {
+    background-color: #faf2f2;
+  }
+  .bg-gray-200 {
+    background-color: #fff;
+}
   @media (max-width: 800px){
     .bootloading{
       font-size:20px;
