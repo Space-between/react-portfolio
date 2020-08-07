@@ -1,16 +1,25 @@
   /*공통*/
   .text-gray-700{
-      color:#333333;
+      color:#fff;
     }
+  .text-gray-800 {
+      color: #fff;
+  }
   .bootloading{
     font-size:28px;
   }
   .bg-gray-300 {
-    background-color: #faf2f2;
+    /* background-color: #faf2f2; */
+    background: url(./styles/image/buildings-1245953_1920.jpg) no-repeat 50% 50% fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
   }
   .bg-gray-200 {
-    background-color: #fff;
-}
+      background-color: gray;
+  }
+  .nav-footer{
+    background-color: rgba(20, 20, 20, 0.8);
+    z-index: 10;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 1px 5px 2px;
+  }
   @media (max-width: 800px){
     .bootloading{
       font-size:20px;
@@ -18,11 +27,24 @@
   }
   /*공통 end*/
 
-
+  /*profile*/
+  .border {
+      border-width: 0px; 
+  }
+  .shadow-lg {
+      box-shadow: 0;
+  }
+  .text-teal-500 {
+      color: #fff;
+  }
+  /*profile end*/
  /*About me*/
  .aboutme-font-length{
    width:48%;
  }
+ .text-xl {
+    font-size: 19px;
+  }
  @media (max-width: 800px){
     .mx-20 {
       margin-left: 0;
@@ -54,6 +76,10 @@
   }
   /*기술스택 end*/
   /*Projects done so far*/
+  .shadow-lg {
+      box-shadow: rgba(0, 0, 0, 1) 0px 1px 5px 2px;
+      background-color: rgba(0, 0, 0, 0.5);
+  }
   @media (max-width: 800px){
     .w-1\/3{
       width:100%;
@@ -74,7 +100,7 @@
   /*Contact me*/
   @media (max-width: 1100px){
     .flex.justify-center.mainsection{
-        margin:0 10px;
+        margin:30px 10px;
     }
     .w-1\/2{
         width:90%;
@@ -103,6 +129,9 @@
   .font-medium{
     color:#999999;
   }
+  .project-title{
+    color:#38b2ac;
+  }
   /*Contact me and*/
 
 
@@ -122,7 +151,7 @@
       padding: 0 15px;
     }
     .text-4xl {
-        font-size: 21px;
+        font-size: 20px;
     }
     .profile-text{
         font-size: 14px; 

@@ -13,7 +13,7 @@ export default function ProjectA() {
           </div>
           <div className="w-2/3 flex flex-col justify-center">
             <div className="px-6 py-4">
-              <div className="font-bold text-xl mb-2 text-gray-800">
+              <div className="font-bold text-xl mb-2 text-gray-800 project-title">
                 T-flix
               </div>
               <p className="text-gray-700 text-lg mb-5">

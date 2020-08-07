@@ -4,7 +4,7 @@ import { Link } from "react-scroll";
 export default function Navbar() {
   return (
     <nav
-      className="flex p-2 w-full justify-end text-gray-700 z-10 bg-gray-600 hover:shadow"
+      className="flex p-2 w-full justify-end text-gray-700 z-10 nav-footer"
       style={{ position: "fixed", top: 0, right: 0, color: "white" }}
     >
       <Link

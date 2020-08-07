@@ -7,7 +7,6 @@ import Footer from "./Footer";
 import Navbar from "./Navbar";
 import { Element } from "react-scroll";
 import Fade from "react-reveal/Fade";
-import loading from "./styles/image/loading.gif";
 
 class App extends Component {
   constructor() {
@@ -49,7 +48,6 @@ class App extends Component {
       </div>
     ) : (
       <div className="flex justify-center items-center absolute top-0 bottom-0 right-0 left-0 bootloading">
-        {/* <img src={loading} alt="Loading" /> */}
         Loading...
       </div>
     );
