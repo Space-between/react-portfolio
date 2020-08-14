@@ -41,7 +41,7 @@ function Profile() {
           <div className="text-xs">Facebook</div>
         </a>
         <a
-          href="https://www.instagram.com/taeyong_0101/"
+          href="https://www.instagram.com/t.y_0001/"
           rel="noopener noreferrer"
           target="_blank"
           className="ml-5 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
