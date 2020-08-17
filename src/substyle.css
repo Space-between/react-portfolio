@@ -12,6 +12,17 @@
     /* background-color: #faf2f2; */
     background: url(./styles/image/buildings-1245953_1920.jpg) no-repeat 50% 50% fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
   }
+  @media (max-width: 500px){
+    .bg-gray-300{
+      background: #333;
+    }
+    .text-gray-700{
+      color:#fff;
+    }
+    .text-gray-800 {
+        color: #fff;
+    }
+  }
   .bg-gray-200 {
       background-color: gray;
   }
