@@ -16,7 +16,7 @@ export default function Navbar() {
         offset={-70}
         duration={500}
       >
-        About
+        Introduce
       </Link>
       <Link
         className="ml-4 cursor-pointer hover:text-teal-400"

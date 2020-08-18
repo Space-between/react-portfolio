@@ -6,7 +6,7 @@ export default function About() {
   return (
     <div className="mb-56">
       <div className="mt-10 text-4xl text-gray-800 font-bold ml-12">
-        About me
+        Introduce
       </div>
       <div className="mx-20 mt-10 text-gray-700 text-xl">
         <p className="aboutme-font-length">

@@ -6,7 +6,7 @@ export default function Project() {
   return (
     <div className="mb-56">
       <div className="mt-10 text-4xl text-gray-800 font-bold ml-12 mb-10">
-        Projects done so far
+        My Project
       </div>
       <ProjectA />
       <ProjectB />
