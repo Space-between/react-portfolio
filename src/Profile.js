@@ -32,15 +32,6 @@ function Profile() {
           <div className="text-xs">Github</div>
         </a>
         <a
-          href="https://www.facebook.com/profile.php?id=100005453949729"
-          rel="noopener noreferrer"
-          target="_blank"
-          className="ml-8 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
-        >
-          <FontAwesomeIcon className="text-2xl" icon={faFacebook} />
-          <div className="text-xs">Facebook</div>
-        </a>
-        <a
           href="https://www.instagram.com/t.y_0001/"
           rel="noopener noreferrer"
           target="_blank"
@@ -50,10 +41,19 @@ function Profile() {
           <div className="text-xs">Instagram</div>
         </a>
         <a
+          href="https://www.facebook.com/profile.php?id=100005453949729"
+          rel="noopener noreferrer"
+          target="_blank"
+          className="ml-5 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
+        >
+          <FontAwesomeIcon className="text-2xl" icon={faFacebook} />
+          <div className="text-xs">Facebook</div>
+        </a>
+        <a
           href="https://twitter.com/xodyd1756"
           rel="noopener noreferrer"
           target="_blank"
-          className="ml-4 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
+          className="ml-5 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
         >
           <FontAwesomeIcon className="text-2xl" icon={faTwitter} />
           <div className="text-xs">Twitter</div>

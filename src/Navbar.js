@@ -8,7 +8,7 @@ export default function Navbar() {
       style={{ position: "fixed", top: 0, right: 0, color: "white" }}
     >
       <Link
-        className="mr-1 cursor-pointer hover:text-teal-400"
+        className="cursor-pointer hover:text-teal-400"
         activeClass="active"
         to="about"
         spy={true}
